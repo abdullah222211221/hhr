@@ -337,7 +337,7 @@ client.on('message', message => {
         .addField('avatar', "افاتار الشخص المطلوب")
         .addField('gif', 'البحث عن جيف انت تطلبه')
         .addField('ping', 'معرفة ping البوت')
-        .setFooter('المزيد قريبا ان شاء الله!')
+        .setFooter('Ba @- Riverrr ?#1111')
       message.channel.send(helpEmbed);
     }
 });
